@@ -32,8 +32,8 @@ All code files(Task_1.ipynb, Task_2.ipynb, Task_3.ipynb) has to be executed in G
 
 ### Subtask-2:
 - **Implementation Status:**
-  - ✅ **Completed:** Preprocessing, model training, and narrative predictions (achieved strong F1-scores)
-  - ⏳ **Pending:** Sub-narrative handling due to dataset complexity and ambiguous labeling
+  - **Completed:** Preprocessing, model training, and narrative predictions (achieved strong F1-scores)
+  - **Pending:** Sub-narrative handling due to dataset complexity and ambiguous labeling
 - **Next Steps (Phase-3):** Resolve sub-narrative challenges and optimize the XLM-R architecture.
 
 ### Subtask-3:
