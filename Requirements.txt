@@ -1,0 +1,13 @@
+numpy
+torch
+torch.nn
+torch.optim
+torch.utlis.data
+transformers
+sklearn
+matplotlib
+pdfplumber
+re
+defaultdict
+collections
+SentenceTransformer, util
