@@ -11,3 +11,4 @@ re
 defaultdict
 collections
 SentenceTransformer, util
+bert_score
